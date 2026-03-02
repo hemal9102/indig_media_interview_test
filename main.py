@@ -1,4 +1,4 @@
-//here we will give core logic
+# //here we will give core logic
 from fastapi  import FastAPI , Depends , Request , Form
 from Fastapi.responses import HTMLResponse , RedirectResponse
 
